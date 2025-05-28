@@ -1,4 +1,7 @@
 ## Hi there 👋
+![IMG_5947](https://github.com/user-attachments/assets/d3c57d56-8d76-48bf-8039-30d579c91a33)
+
+
 - 🔭 I’m currently working on building computational physics projects
 - 📫 How to reach me: devanskm@yahoo.com
 <!--
