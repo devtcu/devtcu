@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Devansh and I am a senior at Texas Christian University, currently studying Physics and Math. Passionate about the elegance that they have to offer, I've found myself combining their applications with programming!
+My name is Devansh and I am a senior at Texas Christian University, currently studying Physics and Math. Passionate about the elegance that they have to offer, I've apparently found myself combining their applications with programming over here!
 - 🔭 I’m currently working on building computational physics projects! Feel free to reach out to me if you want to collaborate!!
 - 📫 How to reach me: devanskm@yahoo.com
 <!--
