@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/user-attachments/assets/d3c57d56-8d76-48bf-8039-30d579c91a33" alt="IMG_5947" width="300">
+<img src="https://github.com/user-attachments/assets/d3c57d56-8d76-48bf-8039-30d579c91a33" alt="IMG_5947" width="500" style="display:block; margin-left:auto; margin-right:auto;">
 
 
 - 🔭 I’m currently working on building computational physics projects
