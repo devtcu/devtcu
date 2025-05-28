@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building computational physics projects
+- 🔭 I’m currently working on building computational physics projects! Feel free to reach out to me if you want to collaborate!!
 - 📫 How to reach me: devanskm@yahoo.com
 <!--
 **devtcu/devtcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
