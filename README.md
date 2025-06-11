@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/849f8380-fc05-4445-8596-a6b22b51729b" width="200" alt="Loop Space GIF">
 </div>
 
-<div style="float: left; margin-right: 15px;">
+<div style="float: right; margin-right: 15px;">
   <img src="https://github.com/user-attachments/assets/2d203940-d0b6-4cfd-8003-d8f93df895ab" width="200" alt="Loop Space GIF">
 </div>
 
